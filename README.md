@@ -2,7 +2,7 @@
 
 ## The Challenge
 
-This repository contains a basic HTML site with an image and some copy. Your mission, if you choose to accept it, is to add some form of navigation structure on to the page so that a user can easily toggle between the four major copy sections on the page. The navigation pattern and design are completely up to you - take this challenge and run with it!
+Prompt: "This repository contains a basic HTML site with an image and some copy. Your mission, if you choose to accept it, is to add some form of navigation structure on to the page so that a user can easily toggle between the four major copy sections on the page. The navigation pattern and design are completely up to you - take this challenge and run with it!"
 
 (The original challenge can be found in the directory "The_Assignment")
 
